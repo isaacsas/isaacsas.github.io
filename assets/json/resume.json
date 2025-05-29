@@ -17,24 +17,24 @@
   },
   "work": [
     {
-      "name": "Boston University, Department of Mathematics and Statistics",
-      "location": "Boston, MA, USA",
+      "name": "Department of Mathematics and Statistics, Boston University",
       "position": "Professor of Mathematics",
+      "location": "Boston, MA, USA",
       "startDate": "2021-03",
       "endDate": "",
       "summary": "Member, Graduate Program in Bioinformatics (2011–Present); Faculty Affiliate, Hariri Institute for Computing and Computational Science & Engineering (2011–Present); Member, Center for Biodynamics (2009–2011)."
     },
     {
-      "name": "Boston University, Department of Mathematics and Statistics",
-      "location": "Boston, MA, USA",
+      "name": "Department of Mathematics and Statistics, Boston University",
       "position": "Associate Professor of Mathematics",
+      "location": "Boston, MA, USA",
       "startDate": "2014-05",
       "endDate": "2021-02"
     },
     {
-      "name": "Boston University, Department of Mathematics and Statistics",
-      "location": "Boston, MA, USA",
+      "name": "Department of Mathematics and Statistics, Boston University",
       "position": "Assistant Professor of Mathematics",
+      "location": "Boston, MA, USA",
       "startDate": "2008-09",
       "endDate": "2014-05"
     },
@@ -46,7 +46,7 @@
       "endDate": "2016-06"
     },
     {
-      "name": "Oxford University, Mathematical Institute",
+      "name": "Mathematical Institute, Oxford University",
       "location": "Oxford, UK",
       "position": "Academic Visitor",
       "startDate": "2015-02",
@@ -77,29 +77,37 @@
   "education": [
     {
       "institution": "Courant Institute of Mathematical Sciences, New York University",
+      "location": "New York, NY, USA",
+      "url": "https://cims.nyu.edu",
       "area": "Mathematics",
       "studyType": "PhD",
-      "endDate": "2005-09"
+      "startDate": "2000-09",
+      "endDate": "2005-09",
+      "courses": [
+        "Advisor: Charles S. Peskin",
+        "Ph.D. Thesis: A Stochastic Reaction–Diffusion Method for Studying the Control of Gene Expression in Eukaryotic Cells"
+      ]
     },
     {
       "institution": "Courant Institute of Mathematical Sciences, New York University",
+      "location": "New York, NY, USA",
       "area": "Mathematics",
       "studyType": "MS",
+      "startDate": "2000-09",
       "endDate": "2001"
     },
     {
       "institution": "Brown University",
       "area": "Applied Mathematics--Computer Science",
       "studyType": "BS",
+      "startDate": "1996-09",
       "endDate": "2000-05",
-      "honors": [
-        "Magna Cum Laude",
-        "College Honors",
-        "Sigma Xi"
-      ]
+      "courses": [
+        "4.0 GPA"
+      ],
     }
   ],
-  "honors and awards": [
+  "awards": [
     {
       "title": "Nature Communications paper selected as an Editor's Highlight",
       "date": "2025"
@@ -109,97 +117,105 @@
       "date": "2016"
     },
     {
-      "title": "NSF CAREER Award Recipient, DMS, Computational Mathematics",
+      "title": "NSF CAREER Award",
+      "awarder": "Division of Mathematical Sciences, National Science Foundation",
       "date": "2013-2018"
     },
     {
-      "title": "Moses A Greenfield Research Award for Outstanding Interdisciplinary Studies, Courant Institute of Mathematical Sciences",
+      "title": "Moses A Greenfield Research Award for Outstanding Interdisciplinary Studies",
+      "awarder": "Courant Institute of Mathematical Sciences, New York University",
       "date": "2005"
     },
     {
-      "title": "MacCracken Fellow, Courant Institute of Mathematical Sciences",
+      "title": "MacCracken Fellow",
+      "awarder": "Courant Institute of Mathematical Sciences, New York University",
       "date": "2000-2005"
     },
     {
       "title": "Rohn Truell Premium Award in Applied Mathematics, Division of Applied Mathematics, Brown University",
+      "awarder": "Department of Applied Mathematics, Brown University",
       "date": "2000"
     },
     {
-      "title": "Magna Cum Laude, Brown University",
+      "title": "Magna Cum Laude",
+      "awarder": "Brown University",
       "date": "2000"
     },
     {
-      "title": "College Honors, Brown University",
+      "title": "College Honors with 4.0 GPA",
+      "awarder": "Brown University",
       "date": "2000"
     },
     {
       "title": "Sigma Xi",
+      "awarder": "Brown University",
       "date": "2000"
     },
     {
-      "title": "Theodore Jaffe' 32 I/II/III National Scholarships, Brown University",
+      "title": "Theodore Jaffe' 32 I/II/III National Scholarships",
+      "awarder": "Brown University",
       "date": "1996-2000"
     }
   ],
-  "funded grants": [
+  "grants": [
     {
-      "name": "Army Research Office, W911NF2510078",
+      "awarder": "Army Research Office, W911NF2510078",
       "date": "2025-2029",
-      "issuer": "PI for: Coarse-grained Limits for Agent-Based and Particle Models of Interacting Populations",
+      "title": "PI for: Coarse-grained Limits for Agent-Based and Particle Models of Interacting Populations",
       "summary": "$578,638 (total award for both PIs)"
     },
     {
-      "name": "NSF - DMS, Emerging Mathematics in Biology, 2325185",
+      "awarder": "NSF - DMS, Emerging Mathematics in Biology, 2325185",
       "date": "2023-2026",
-      "issuer": "PI for: Collaborative Research: Discovery and calibration of stochastic chemical reaction network models",
+      "title": "PI for: Collaborative Research: Discovery and calibration of stochastic chemical reaction network models",
       "summary": "SAI award: $119,728 (total award for both PIs: $494,728)"
     },
     {
-      "name": "Chan Zuckerberg Initiative, 2021-237457 (5022)",
+      "awarder": "Chan Zuckerberg Initiative, 2021-237457 (5022)",
       "date": "2021-2024",
-      "issuer": "PI for: Enhancing the open source SciML stack for clinical trial simulations (EOSS4)",
+      "title": "PI for: Enhancing the open source SciML stack for clinical trial simulations (EOSS4)",
       "summary": "$286,000.00 (total award for both PIs)"
     },
     {
-      "name": "Wellcome Trust, 223770/Z/21/Z",
+      "awarder": "Wellcome Trust, 223770/Z/21/Z",
       "date": "2021-2022",
-      "issuer": "PI for: Accelerating Drug Discovery with Symbolic-Numerics in SciML",
+      "title": "PI for: Accelerating Drug Discovery with Symbolic-Numerics in SciML",
       "summary": "$140,453 (total award for both PIs)"
     },
     {
-      "name": "Army Research Office, W911NF2010244",
+      "awarder": "Army Research Office, W911NF2010244",
       "date": "2020-2024",
-      "issuer": "PI for: Coarse-Grained Limits of Particle-Based Stochastic Reaction-Diffusion Models",
+      "title": "PI for: Coarse-Grained Limits of Particle-Based Stochastic Reaction-Diffusion Models",
       "summary": "$480,318.00 (total award for both PIs)"
     },
     {
-      "name": "NSF - DMS, DMS/NIGMS Initiative, 1902854",
+      "awarder": "NSF - DMS, DMS/NIGMS Initiative, 1902854",
       "date": "2019-2023",
-      "issuer": "PI for: Collaborative Research: Computational Methods for Understanding the Influence of Cellular Geometry and Substructure on Signaling",
+      "title": "PI for: Collaborative Research: Computational Methods for Understanding the Influence of Cellular Geometry and Substructure on Signaling",
       "summary": "SAI award: $699,929 (total award for both PIs: $1,149,929)"
     },
     {
-      "name": "NSF - DMS, Mathematical Biology, 1548520",
+      "awarder": "NSF - DMS, Mathematical Biology, 1548520",
       "date": "2016",
-      "issuer": "PI for: U.S. Participation in Newton Institute Program on Stochastic Dynamical Systems in Biology: Numerical Methods and Applications",
+      "title": "PI for: U.S. Participation in Newton Institute Program on Stochastic Dynamical Systems in Biology: Numerical Methods and Applications",
       "summary": "$23,530.00"
     },
     {
-      "name": "NSF - DMS, Computational Mathematics, 1255408",
+      "awarder": "NSF - DMS, Computational Mathematics, 1255408",
       "date": "2013-2019",
-      "issuer": "PI for Project: CAREER: Numerical Methods for Stochastic Reaction-Diffusion Equations",
+      "title": "PI for Project: CAREER: Numerical Methods for Stochastic Reaction-Diffusion Equations",
       "summary": "$434,043"
     },
     {
-      "name": "NSF - DMS, Mathematical Biology, 0920886",
+      "awarder": "NSF - DMS, Mathematical Biology, 0920886",
       "date": "2009-2013",
-      "issuer": "PI for Project: Multiscale Modeling of Subcellular Structure and its Effects on Gene Expression and Regulation",
+      "title": "PI for Project: Multiscale Modeling of Subcellular Structure and its Effects on Gene Expression and Regulation",
       "summary": "$272,515"
     },
     {
-      "name": "NIH - NIGMS, P50GM071558, Systems Biology Center New York",
+      "awarder": "NIH - NIGMS, P50GM071558, Systems Biology Center New York",
       "date": "2007-2012",
-      "issuer": "Center Member and Consultant for Subproject: Explicit 3D Models of the Spatiotemporal Effects of the Regulatory Loops in cAMP Dependent Heart Failure",
+      "title": "Center Member and Consultant for Subproject: Explicit 3D Models of the Spatiotemporal Effects of the Regulatory Loops in cAMP Dependent Heart Failure",
       "summary": "Approximate Center Funding: $13,000,000, Approximate Project Funding: $1,000,000"
     }
   ]
