@@ -11,7 +11,7 @@ nav_order: 3
 Online Talks
 
 - IBS Biomedical Mathematics Group Online Colloquium, Institute for Basic Science, Daejeon, Korea (2023). 
-    - *Spatial Particle Modeling of Immune Processes*, [here](https://youtu.be/StX7aPWfynM?si=6r9MJEptuXQsUFS8)
+    - *Spatial Particle Modeling of Immune Processes*, [here](https://youtu.be/StX7aPWfynM?si=6r9MJEptuXQsUFS8).
 - JuliaCon 2022, 3 hour tutorial.
     - *Modeling of Chemical Reaction Networks Using Catalyst.jl*, [here](https://www.youtube.com/live/tVfxT09AtWQ?si=Ysufr14RqcoazBBD).
 - BIRs Workshop on Mathematics of the Cell: Integrating Signaling, Transport and Mechanics, Banff, CA (October 2021). (Online due to COVID.)
