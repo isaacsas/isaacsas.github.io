@@ -13,7 +13,13 @@
       "city": "Boston",
       "region": "MA",
       "country": "USA"
-    }
+    },
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=Ap9PfVQAAAAJ&hl=en"
+      }
+    ]
   },
   "work": [
     {
