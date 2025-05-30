@@ -16,9 +16,16 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-repositories",
-          title: "Repositories",
-          description: "Links to open source software I have created and contributed to.",
+        },{id: "nav-talks",
+          title: "Talks",
+          description: "Links to past online talks I&#39;ve given.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/talks/";
+          },
+        },{id: "nav-software",
+          title: "Software",
+          description: "Links to open source software I have created and/or contributed to.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
