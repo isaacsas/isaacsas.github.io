@@ -10,7 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>CDS 442</p>
-    <p>665 Commonwealth Ave. </p>
+    <p>Department of Mathematics and Statistics</p>
+    <p>Boston University</p>    
+    <p>665 Commonwealth Ave.</p>
     <p>Boston, MA 02215</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
