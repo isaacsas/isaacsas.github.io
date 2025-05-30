@@ -270,7 +270,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Isaacson]
-  first_name: [Samuel, S., S.A., S. A., Samuel A.]
+  first_name: [Samuel, S., S.A., S. A., Samuel A., SA]
 
   style: apa
   locale: en
