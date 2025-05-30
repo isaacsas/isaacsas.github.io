@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Professor, <a href="https://math.bu.edu">Department of Mathematics and Statistics, Boston University</a>.
 

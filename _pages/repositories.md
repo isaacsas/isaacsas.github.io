@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositories
 description: Links to open source software I have created and contributed to.
 nav: true
 nav_order: 4
