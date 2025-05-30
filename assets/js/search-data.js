@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "Linked PDF provides a more comprehensive CV.",
+          description: "Linked PDF provides a more comprehensive CV. See also my [Google Scholar](https://scholar.google.com/citations?user=Ap9PfVQAAAAJ&amp;hl=en).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
