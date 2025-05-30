@@ -89,22 +89,12 @@
       ]
     },
     {
-      "institution": "Courant Institute of Mathematical Sciences, New York University",
-      "location": "New York, NY, USA",
-      "area": "Mathematics",
-      "studyType": "MS",
-      "startDate": "2000-09",
-      "endDate": "2001"
-    },
-    {
       "institution": "Brown University",
       "area": "Applied Mathematics--Computer Science",
+      "location": "Providence, RI, USA",
       "studyType": "BS",
       "startDate": "1996-09",
-      "endDate": "2000-05",
-      "courses": [
-        "4.0 GPA"
-      ]
+      "endDate": "2000-05"
     }
   ],
   "awards": [
@@ -168,7 +158,7 @@
       "awarder": "NSF - DMS, Emerging Mathematics in Biology, 2325185",
       "date": "2023-2026",
       "title": "PI for: Collaborative Research: Discovery and calibration of stochastic chemical reaction network models",
-      "summary": "SAI award: $119,728 (total award for both PIs: $494,728)"
+      "summary": "SAI award $119,728 (total award for both PIs: $494,728)"
     },
     {
       "awarder": "Chan Zuckerberg Initiative, 2021-237457 (5022)",
@@ -192,7 +182,7 @@
       "awarder": "NSF - DMS, DMS/NIGMS Initiative, 1902854",
       "date": "2019-2023",
       "title": "PI for: Collaborative Research: Computational Methods for Understanding the Influence of Cellular Geometry and Substructure on Signaling",
-      "summary": "SAI award: $699,929 (total award for both PIs: $1,149,929)"
+      "summary": "SAI award $699,929 (total award for both PIs: $1,149,929)"
     },
     {
       "awarder": "NSF - DMS, Mathematical Biology, 1548520",
