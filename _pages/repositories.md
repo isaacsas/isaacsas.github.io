@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /repositories/
-title: Repositories
-description: Links to open source software I have created and contributed to.
+title: Software
+description: Links to open source software I have created and/or contributed to.
 nav: true
 nav_order: 4
 ---
 
-{% if site.data.repositories.github_users %}
+<!-- {% if site.data.repositories.github_users %}
 
 ## GitHub users
 
@@ -35,7 +35,7 @@ nav_order: 4
 {% endif %}
 {% endif %}
 
-{% if site.data.repositories.github_repos %}
+{% if site.data.repositories.github_repos %} -->
 
 ## GitHub Repositories
 
