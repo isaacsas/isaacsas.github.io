@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: Software
-description: Links to open source software I have created and/or contributed to.
+description: Links to open source research software I have created and/or contributed to.
 nav: true
 nav_order: 4
 ---
