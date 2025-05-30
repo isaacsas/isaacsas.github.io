@@ -1,5 +1,5 @@
 <table class="table table-cv table-sm table-borderless table-responsive table-cv-map">
-  {% assign skip_basics = 'image,location' | split: ',' %}
+  {% assign skip_basics = 'image,profiles,location' | split: ',' %}
   {% for content in data[1] %}
     {%
       if (content[1] == "") or (skip_basics contains
@@ -25,4 +25,16 @@
       </td>
     </tr>
   {% endfor %}
+  {% if data[1].profiles %}
+    <tr>
+      <td class="p-1 pr-2 font-weight-bold"><b>Profiles</b></td>
+      <td class="p-1 pl-2 font-weight-light text">
+        {% for profile in data[1].profiles %}
+          <a href="{{ profile.url }}" target="_blank" rel="noopener noreferrer">
+            {{ profile.network }}
+          </a>{% unless forloop.last %}, {% endunless %}
+        {% endfor %}
+      </td>
+    </tr>
+  {% endif %}
 </table>
