@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Professor, <a href="https://math.bu.edu"Department of Mathematics and Statistics, Boston University</a>.
+subtitle: Professor, <a href="https://math.bu.edu">Department of Mathematics and Statistics, Boston University</a>.
 
 profile:
   align: right
