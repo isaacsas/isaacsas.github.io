@@ -2,21 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Professor, <a href="https://math.bu.edu"Department of Mathematics and Statistics, Boston University</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: office.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>CDS 442</p>
-    <p>Department of Mathematics and Statistics</p>
-    <p>Boston University</p>    
     <p>665 Commonwealth Ave.</p>
     <p>Boston, MA 02215</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -29,6 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests are in the areas of numerical analysis, mathematical biology, and mathemat-
+ical physics, with an emphasis on the development and the numerical analysis of methods for
+studying problems in cell biology. Recent research areas have included understanding the rigor-
+ous coarse-grained limits of particle stochastic reaction-diffusion models, developing accurate and
+efficient numerical methods for the simulation of such models within realistic cellular geometries,
+and the application of particle reactive transport models to the study of cell signaling, T cell sig-
+naling, and antibody-antigen interactions. For the latter I have helped to develop new combined
+experimental, modeling, and inference approaches to better estimate from experimental data the
+biophysical parameters that drive antibody-antigen and ligand-receptor interactions.

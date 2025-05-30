@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - isaacsas
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - SciML/Catalyst.jl
+  - SciML/JumpProcesses.jl
+  - SciML/ModelingToolkit.jl/
+  - isaacsas/SPRFittingPaper2023.jl
+  - isaacsas/ibmethod2d
