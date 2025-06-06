@@ -412,16 +412,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-new-paper-the-molecular-reach-of-antibodies-crucially-underpins-their-viral-neutralisation-capacity-in-nature-communications",
-          title: 'New paper, The molecular reach of antibodies crucially underpins their viral neutralisation capacity,...',
+            },},{id: "news-new-paper-an-unstructured-mesh-reaction-drift-diffusion-master-equation-with-reversible-reactions-in-the-bulletin-of-mathematical-biology",
+          title: 'New paper, An Unstructured Mesh Reaction-Drift-Diffusion Master Equation with Reversible Reactions, in the...',
           description: "",
           section: "News",},{id: "news-announcement-2",
           title: 'Announcement_2',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-nature-communications-paper-the-molecular-reach-of-antibodies-crucially-underpins-their-viral-neutralisation-capacity-selected-as-an-editor-s-highlight",
-          title: 'Nature Communications paper, The molecular reach of antibodies crucially underpins their viral neutralisation...',
+            },},{id: "news-new-nature-communications-paper-the-molecular-reach-of-antibodies-crucially-underpins-their-viral-neutralisation-capacity-selected-as-an-editor-s-highlight",
+          title: 'New Nature Communications paper, The molecular reach of antibodies crucially underpins their viral...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
