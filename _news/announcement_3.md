@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper, **The molecular reach of antibodies crucially underpins their viral neutralisation capacity**, in Nature Communications.
+New paper, **The molecular reach of antibodies crucially underpins their viral neutralisation capacity**, in Nature Communications, {% cite huhn2025molecular %}.

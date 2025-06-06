@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-New paper, **Mean field limits of particle-based stochastic reaction-drift-diffusion models**, in Nonlinearity.
+New paper, **Mean field limits of particle-based stochastic reaction-drift-diffusion models**, in Nonlinearity {% cite heldman2025mean %}.

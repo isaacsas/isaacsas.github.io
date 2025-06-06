@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Nature Communications paper selected as an Editor's Highlight.
+Nature Communications paper {% cite huhn2025molecular %}selected as an Editor's Highlight.
