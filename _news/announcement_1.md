@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Nature Communications paper {% cite huhn2025molecular %}selected as an Editor's Highlight.
+Nature Communications paper, **The molecular reach of antibodies crucially underpins their viral neutralisation capacity**, selected as an Editor's Highlight.
