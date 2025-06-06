@@ -412,7 +412,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-new-paper-the-molecular-reach-of-antibodies-crucially-underpins-their-viral-neutralisation-capacity-in-nature-communications",
+            },},{id: "news-new-paper-the-molecular-reach-of-antibodies-crucially-underpins-their-viral-neutralisation-capacity-in-nature-communications-huhn-et-al-2025",
           title: 'New paper, The molecular reach of antibodies crucially underpins their viral neutralisation capacity,...',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
@@ -420,8 +420,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-nature-communications-paper-selected-as-an-editor-s-highlight",
-          title: 'Nature Communications paper selected as an Editor’s Highlight.',
+            },},{id: "news-nature-communications-paper-huhn-et-al-2025-selected-as-an-editor-s-highlight",
+          title: 'Nature Communications paper (Huhn et al., 2025)selected as an Editor’s Highlight.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
