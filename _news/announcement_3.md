@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper, **The molecular reach of antibodies crucially underpins their viral neutralisation capacity**, in Nature Communications.
+New paper, [**An Unstructured Mesh Reaction-Drift-Diffusion Master Equation with Reversible Reactions**](https://doi.org/10.1007/s11538-024-01392-z), in the Bulletin of Mathematical Biology.
