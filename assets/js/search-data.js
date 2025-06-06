@@ -412,16 +412,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-new-paper-the-molecular-reach-of-antibodies-crucially-underpins-their-viral-neutralisation-capacity-in-nature-communications",
+          title: 'New paper, The molecular reach of antibodies crucially underpins their viral neutralisation capacity,...',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-nature-communications-paper-selected-as-an-editor-s-highlight",
+          title: 'Nature Communications paper selected as an Editor’s Highlight.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
