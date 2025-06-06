@@ -415,12 +415,10 @@ ninja.data = [{
             },},{id: "news-new-paper-an-unstructured-mesh-reaction-drift-diffusion-master-equation-with-reversible-reactions-in-the-bulletin-of-mathematical-biology",
           title: 'New paper, An Unstructured Mesh Reaction-Drift-Diffusion Master Equation with Reversible Reactions, in the...',
           description: "",
-          section: "News",},{id: "news-announcement-2",
-          title: 'Announcement_2',
+          section: "News",},{id: "news-new-paper-mean-field-limits-of-particle-based-stochastic-reaction-drift-diffusion-models-in-nonlinearity",
+          title: 'New paper, Mean field limits of particle-based stochastic reaction-drift-diffusion models, in Nonlinearity.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-new-nature-communications-paper-the-molecular-reach-of-antibodies-crucially-underpins-their-viral-neutralisation-capacity-selected-as-an-editor-s-highlight",
+          section: "News",},{id: "news-new-nature-communications-paper-the-molecular-reach-of-antibodies-crucially-underpins-their-viral-neutralisation-capacity-selected-as-an-editor-s-highlight",
           title: 'New Nature Communications paper, The molecular reach of antibodies crucially underpins their viral...',
           description: "",
           section: "News",},{id: "projects-project-1",
