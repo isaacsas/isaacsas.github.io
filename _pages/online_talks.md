@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: Talks
-description: Links to past online talks I've given.
+description: Past online and invited talks I've given.
 nav: true
 nav_order: 3
 ---
