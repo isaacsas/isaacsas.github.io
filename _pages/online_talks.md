@@ -14,7 +14,7 @@ nav_order: 3
     - *Spatial Particle Modeling of Immune Processes*, [here](https://youtu.be/StX7aPWfynM?si=6r9MJEptuXQsUFS8).
 - JuliaCon 2022, 3 hour tutorial.
     - *Modeling of Chemical Reaction Networks Using Catalyst.jl*, [here](https://www.youtube.com/live/tVfxT09AtWQ?si=Ysufr14RqcoazBBD).
-- BIRs Workshop on Mathematics of the Cell: Integrating Signaling, Transport and Mechanics, Banff, CA (October 2021). (Online due to COVID.)
+- BIRs Workshop on Mathematics of the Cell: Integrating Signaling, Transport and Mechanics, Banff, CA (October 2021). (Online due to COVID.) 
     - *Stochastic Reaction-Drift-Diffusion Methods for Studying Cell Signaling*, [here](https://www.birs.ca/events/2021/5-day-workshops/21w5154/videos/watch/202110210945-Isaacson.html).
 - SIAM CSE, Minisymposium on High Performance Simulation and Estimation with Julia's SciML, Virtual Conference due to COVID (2021).
     - *Modeling Biochemical Systems with Catalyst.jl*, [here](https://youtu.be/5p1PJE5A5Jw?si=ppIBaISiMNWgh6m_).
