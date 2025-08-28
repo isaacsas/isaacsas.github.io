@@ -25,6 +25,7 @@ nav_order: 3
 
 ## Invited Talks
 
+1. Coarse-grained limits of particle-based stochastic reactive-transport models, SMB Annual Meeting, Edmonton, Alberta, CA (July 2025).
 1. Spatial Jump Process Models for Estimating Antibody-Antigen Interactions, Mathematical Biology Seminar, WPI (April 2025).
 1. Spatial Jump Process Models for Estimating Antibody-Antigen Interactions, 2025 Brown-Konkuk Workshop, Brown University (March 2025).
 1. Spatial Jump Process Models for Estimating Antibody-Antigen Interactions, Mathematical Biology Seminar, Purdue University (November 2024).
