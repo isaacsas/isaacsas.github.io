@@ -37,7 +37,7 @@ Ph.D. applications are handled through the university's graduate admissions syst
 
 Application deadlines and requirements can be found on the [Boston University Mathematics Ph.D. program page](https://www.bu.edu/math/phd-in-mathematics/). 
 
-**Note for prospective Ph.D. students:** Due to the high volume of inquiries, I may not be able to respond to individual emails before admissions decisions are made. However, students who receive admission offers are warmly encouraged to contact me to discuss potential research projects and opportunities within our group. Please also note that Boston University requires an application fee for Ph.D. applications, and I am not unfortunately unable to help with obtaining a fee waiver.
+**Note for prospective Ph.D. students:** Due to the high volume of inquiries, I may not be able to respond to individual emails before admissions decisions are made. However, students who receive admission offers are warmly encouraged to contact me to discuss potential research projects and opportunities within our group. As I am frequently asked about this, please also note that Boston University requires an application fee for Ph.D. applications, and I am unfortunately unable to help with obtaining a fee waiver.
 
 ---
 
