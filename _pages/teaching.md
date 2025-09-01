@@ -7,4 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-Fall 2025 course syllabi will posted here by Tuesday 9/2.
+Fall 2025 course syllabi:
+- [MA539 Syllabus](assets/pdf/2025-fall-ma539_syllabus.pdf)
+- [MA579 Syllabus](assets/pdf/2025-fall-ma579_syllabus.pdf)
